@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "243745299459",
+    "project_id": "eventui-a05c6",
+    "storage_bucket": "eventui-a05c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243745299459:android:1c958590d943df557e4236",
+        "android_client_info": {
+          "package_name": "com.ashish.eventui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243745299459-0lvlmohgtofqd7rs8on7j9e73rig4s9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUEKR7mqolttEYD9L7nF9nwjbSv24dn4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243745299459-0lvlmohgtofqd7rs8on7j9e73rig4s9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
